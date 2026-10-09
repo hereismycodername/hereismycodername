@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning TypeScript and NextJS framework<br>
+I am currently learning Cyber Security<br>
 
 
 ## 🌐 Socials:
